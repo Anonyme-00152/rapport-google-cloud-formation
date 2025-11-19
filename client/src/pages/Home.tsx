@@ -59,9 +59,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Contenu mis à jour selon le prompt utilisateur */}}],path:
-      <section id="opportunite" className="section-padding bg-background">
+      {/* Section Contenu Google Cloud */}   <section id="opportunite" className="section-padding bg-background">
           <h2 className="text-4xl font-bold mb-12 text-center">1. Qu’est-ce que Google Cloud ?</h2>
           <div className="bg-primary/5 border border-primary/20 rounded-lg p-8 mb-12">
             <p className="text-lg text-foreground/80 mb-4">
@@ -155,7 +153,7 @@ export default function Home() {
             </Card>
           </div>
         </section>
-        
+ 
         {/* Pourquoi Google Cloud */}
 
         <section id="offres" className="section-padding bg-card">
