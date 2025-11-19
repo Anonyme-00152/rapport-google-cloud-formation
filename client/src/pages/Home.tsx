@@ -155,6 +155,8 @@ export default function Home() {
             </Card>
           </div>
         </section>
+        
+        {/* Pourquoi Google Cloud */}
 
         <section id="offres" className="section-padding bg-card">
           <h2 className="text-4xl font-bold mb-12 text-center">4. Nos offres de formation et services</h2>
